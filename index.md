@@ -1,1 +1,1 @@
-# My first repository
+# Peter Griffin
