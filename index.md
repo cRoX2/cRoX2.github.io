@@ -7,3 +7,5 @@ Peter Griffin is a fictional character and the protagonist of the American anima
 * good jokes
 
 > I'm The Most Non-Competitive.
+
+<img src="https://static3.srcdn.com/wordpress/wp-content/uploads/peter-griffin-family-guy.jpg"/>
